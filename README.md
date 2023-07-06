@@ -1,7 +1,6 @@
 # Parameter-Update-for-Python-Class
 
 '''
-
 class A:
     coding_is_beautiful = True
 
