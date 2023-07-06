@@ -12,6 +12,9 @@ print(obj1.coding_is_beautiful)
 obj1.coding_is_beautiful = False
 print(obj1.coding_is_beautiful)
 ```
+True
+False
+
 
 ```
 class B:
@@ -23,3 +26,5 @@ print(obj2.coding_is_beautiful)
 obj2.set_coding_is_beautiful = False
 print(obj2.coding_is_beautiful)
 ```
+True
+True
